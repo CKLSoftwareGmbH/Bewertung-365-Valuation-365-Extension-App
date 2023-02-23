@@ -11,13 +11,15 @@ page 50101 "IVAEXT Val. Cond. (CustVal) SF"
         {
             group(GroupName)
             {
-                field(IVAEXTCustomizedFieldA; "IVAEXT Customized Field A")
+                field(IVAEXTCustomizedFieldA; Rec."IVAEXT Customized Field A")
                 {
                     ApplicationArea = All;
+                    ToolTip = 'Add Description';
                 }
-                field(IVAEXTCustomizedFieldB; "IVAEXT Customized Field B")
+                field(IVAEXTCustomizedFieldB; Rec."IVAEXT Customized Field B")
                 {
                     ApplicationArea = All;
+                    ToolTip = 'Add Description';
                 }
             }
         }
