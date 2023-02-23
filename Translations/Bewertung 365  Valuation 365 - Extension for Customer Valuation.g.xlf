@@ -13,6 +13,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (CustVal) SF - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 831413078 - Control 3829967632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 327956551">
+          <source>The Valuation type determines the criteria according to which the devaluation is to take place: Range, Leaving, Expiration Date, Age structure, Location type, Currency, Lowest value, Range periods or Leaving periods. Depending on the Valuation type, further parameters must be defined in the Valuation condition levels.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IVAEXT Val. Conditions - Control IVAEXTValuationType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4092883604 - Control 3829967632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2212646289">
+          <source>The Valuation type determines the criteria according to which the devaluation is to take place: Range, Leaving, Expiration Date, Age structure, Location type, Currency, Lowest value, Range periods or Leaving periods. Depending on the Valuation type, further parameters must be defined in the Valuation condition levels.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IVAEXT Val. Conditions List - Control IVAEXTValuationType - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="TableExtension 1210553373 - Field 421446327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3635969308">
           <source>IVAEXT Customized Field A</source>
           <note from="Developer" annotates="general" priority="2"></note>
