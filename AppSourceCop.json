@@ -1,0 +1,4 @@
+{
+    "mandatoryPrefix": "IVAEXT",
+    "supportedCountries": ["US","DE"]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2d14cdf5-4ae2-4f63-836c-8dbf278d958e",
+  "name": "Bewertung 365 / Valuation 365 - Extension for Customer Valuation",
+  "publisher": "CKL Software GmbH",
+  "version": "1.0.0.0",
+  "brief": "With this Valuation 365 Extension we offer you the base structure of an App that would allow you to extend our module with Customer specific Valuation.",
+  "description": "With this Valuation 365 Extension we offer you the base structure of an App that would allow you to extend our module with Customer specific Valuation.",
+  "url": "https://www.ckl365.com/de/bewertung365.html",
+  "privacyStatement": "https://www.ckl365.com/de/datenschutzhinweise.html",
+  "EULA": "https://www.ckl365.com/de/lizenzbedingungen.html",
+  "help": "https://www.ckl365.com/de/hilfe.html",
+  "contextSensitiveHelpUrl": "https://onlinehelp.ckl365.com/{0}/site/Valuation365/Basics/",
+  "logo": "./Media/Logo/ckl_logo_216x216px.png",
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "dependencies": [
+    {
+      "id": "4be2e50d-be5e-48cc-9a33-650bdc76d0f1",
+      "publisher": "CKL Software GmbH",
+      "name": "Bewertung 365 / Valuation 365",
+      "version": "2.0.12.0"
+    }
+  ],
+  "screenshots": [],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": false,
+  "target": "Extension",
+  "runtime": "7.0",
+  "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ],
+  "supportedLocales": ["en-US","de-DE","de-AT","de-CH"]
+}
