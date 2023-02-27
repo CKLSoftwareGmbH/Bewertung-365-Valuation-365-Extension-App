@@ -28,8 +28,8 @@
       "to": 50149
     }
   ],
-  "showMyCode": false,
-  "target": "Extension",
+  "showMyCode": true,
+  "target": "Cloud",
   "runtime": "7.0",
   "features": [
     "TranslationFile",

@@ -8,10 +8,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (Cust. Val.) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3354683483 - Control 3393071239 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (Cust. Val.) - Control IVAEXTCustomizedFieldA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3354683483 - Control 1011193794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (Cust. Val.) - Control IVAEXTCustomizedFieldB - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 619088416 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>IVAEXT Val. Cond. (CustVal) SF</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (CustVal) SF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 619088416 - Control 3393071239 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (CustVal) SF - Control IVAEXTCustomizedFieldA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 619088416 - Control 1011193794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IVAEXT Val. Cond. (CustVal) SF - Control IVAEXTCustomizedFieldB - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 831413078 - Control 3829967632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 327956551">
           <source>The Valuation type determines the criteria according to which the devaluation is to take place: Range, Leaving, Expiration Date, Age structure, Location type, Currency, Lowest value, Range periods or Leaving periods. Depending on the Valuation type, further parameters must be defined in the Valuation condition levels.</source>
